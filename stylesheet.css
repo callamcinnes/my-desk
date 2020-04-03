@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'larish_altesemibold';
-    src: url(‘larishalte-semibold-webfont.woff2') format('woff2'),
-         url('larishalte-semibold-webfont.woff') format('woff');
+    src: url(‘https://callamcinnes.github.io/my-desk/larishalte-semibold-webfont.woff2') format('woff2'),
+         url(‘https://callamcinnes.github.io/my-desk/larishalte-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
